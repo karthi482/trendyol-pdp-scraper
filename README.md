@@ -1,0 +1,1 @@
+# trendyol-pdp-scraper
